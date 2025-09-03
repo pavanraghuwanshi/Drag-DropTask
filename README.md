@@ -50,5 +50,5 @@
 **Run Tests:**
 
 ```bash
-npm test
-npm test -- --coverage --watchAll=false
+npm run dev
+npm start 
